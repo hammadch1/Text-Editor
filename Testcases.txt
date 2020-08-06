@@ -1,0 +1,18 @@
+1 abcde 1.txt
+2 ABCDE 2.txt
+3 a Scrivener FindProcessingTextFile.txt 3a.txt
+3 b SCrIveNer FindProcessingTextFile.txt 3b.txt
+4 The second worker is Nippers,who is much younger and more ambitious than turkey. FindProcessingTextFile.txt 4.txt
+5 abc FindProcessingTextFile.txt 5.txt 
+6 a puzzlement excitement FindProcessingTextFile.txt 6a.txt
+6 b acha kmaal FindProcessingTextFile.txt 6b.txt
+7 FindProcessingTextFile.txt 7.txt 
+8 abc FindProcessingTextFile.txt 8.txt 
+9 ABCDE FindProcessingTextFile.txt 9.txt
+10 FindProcessingTextFile.txt 10.txt 
+11 FindProcessingTextFile.txt 11.txt 
+12 Scrivener OUR 12.txt 
+13 Scrivener our 13.txt
+14 FindProcessingTextFile.txt 14.txt
+15 FindProcessingTextFile.txt merge.txt 15.txt
+16 FindProcessingTextFile.txt 16.txt
